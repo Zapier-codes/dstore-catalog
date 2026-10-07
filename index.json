@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T16:00:13Z",
+  "generated_at": "2026-10-07T22:00:12Z",
   "sequence": 0,
-  "expires_at": "2026-10-08T16:00:13Z",
+  "expires_at": "2026-10-08T22:00:12Z",
   "apps": [
     {
       "id": 2,
@@ -83,9 +83,10 @@
         "editors_pick": false
       },
       "base_stats": {
-        "downloads": 5,
+        "downloads": 8,
         "rating": null
       },
+      "reviews": [],
       "sponsored_slots": [],
       "collections": [],
       "suggested_version_code": "218",
