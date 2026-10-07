@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T08:28:03Z",
+  "generated_at": "2026-10-07T08:28:18Z",
   "sequence": 0,
-  "expires_at": "2026-10-08T08:28:03Z",
+  "expires_at": "2026-10-08T08:28:18Z",
   "apps": [
     {
       "id": 2,
@@ -27,6 +27,27 @@
             "url": "https://localhost/download/graphics/1",
             "sha256": "623b2d38ff9efe157237ba6ee9a541b0b66d1d317f4026a6380aac3168ebbad0",
             "alt": "home",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://localhost/download/graphics/2",
+            "sha256": "ec1b6a3c34b0a81d0f084fe121b56905a1773e4159168b878a553d68884ef43a",
+            "alt": "search",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://localhost/download/graphics/3",
+            "sha256": "96a134f2525cdb22b29ac51dfaf08de7cdae00831027f3f30ac4e8367419205b",
+            "alt": "profile",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://localhost/download/graphics/4",
+            "sha256": "22b9a177c4e2be4dd0a418b04533068b57615e22a1139b25fb94507038cecfae",
+            "alt": "settings",
             "width": 1080,
             "height": 2160
           }
