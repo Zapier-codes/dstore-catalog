@@ -1,8 +1,93 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T05:49:16Z",
+  "generated_at": "2026-10-07T05:49:28Z",
   "sequence": 0,
-  "expires_at": "2026-10-08T05:49:16Z",
-  "apps": [],
+  "expires_at": "2026-10-08T05:49:28Z",
+  "apps": [
+    {
+      "id": 2,
+      "package_name": null,
+      "listing_status": "live",
+      "publisher": {
+        "name": "Nikhil",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Appstore",
+        "description": "Appstore is an open-source Android app store that scans six sources and merges them into one feed: GitHub, GitLab, F-Droid, IzzyOnDroid, APKPure and Aptoide. No ads and no bloat.\n\nFind what you want faster\n- Browse curated categories plus smart sections such as Trending and Newly Launched.\n- See screenshots pulled straight from each project's README.\n- Sync your GitHub starred repositories into your favourites.\n\nInstall with confidence\n- Every downloaded APK is checked against the signing certificate of the app already on your phone before it installs, so a hijacked repository or redirected release cannot silently replace what you have.\n- Your install history is kept, and you can roll back to a previous version from it.\n\nMade for everyone\n- Available in 16 languages, including English, Hindi, Spanish, French, German, Japanese, Portuguese, Arabic and Chinese.\n- Dismissible in-app announcements for releases and community updates.\n- Optional Liquid Glass Pro themes.\n\nAppstore is open source under the AGPL-3.0 licence.",
+        "icon": {
+          "url": null,
+          "sha256": null
+        },
+        "screenshots": [],
+        "feature_graphic": null,
+        "video": null,
+        "content_rating": null,
+        "data_safety": {
+          "collects_data": null,
+          "data_types": [],
+          "shared_with_third_parties": null,
+          "encrypted_in_transit": null,
+          "deletion_request_url": null
+        },
+        "contains_ads": null,
+        "has_in_app_purchases": null
+      },
+      "slug": "appstore",
+      "summary": "Open-source Android store merging GitHub, F-Droid, Aptoide and more",
+      "category": null,
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-03T10:55:52Z",
+      "updated_at": "2026-10-07T05:49:18Z",
+      "editorial": {
+        "featured": false,
+        "editors_pick": false
+      },
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "218",
+      "versions": [
+        {
+          "release_id": 6,
+          "version_name": "1.1.4",
+          "version_code": "218",
+          "download_url": "https://localhost/download/releases/6",
+          "sha256": "a5ec9fefe65e765e215ac161e92a674e669192ab9585e4743577d5111dbfa177",
+          "size_bytes": 31238330,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Version 1.1.4 (build 218), commit 517394f.",
+          "released_at": "2026-10-06T08:39:58Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": []
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          }
+        }
+      ]
+    }
+  ],
   "collections": []
 }
