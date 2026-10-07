@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T10:05:15Z",
+  "generated_at": "2026-10-07T16:00:13Z",
   "sequence": 0,
-  "expires_at": "2026-10-08T10:05:15Z",
+  "expires_at": "2026-10-08T16:00:13Z",
   "apps": [
     {
       "id": 2,
@@ -81,6 +81,10 @@
       "editorial": {
         "featured": true,
         "editors_pick": false
+      },
+      "base_stats": {
+        "downloads": 5,
+        "rating": null
       },
       "sponsored_slots": [],
       "collections": [],
