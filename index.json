@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-08T11:18:42Z",
+  "generated_at": "2026-10-08T11:18:59Z",
   "sequence": 0,
-  "expires_at": "2026-10-09T11:18:42Z",
+  "expires_at": "2026-10-09T11:18:59Z",
   "apps": [
     {
       "id": 2,
