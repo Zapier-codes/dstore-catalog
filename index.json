@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T03:48:42Z",
+  "generated_at": "2026-10-09T03:50:41Z",
   "sequence": 0,
-  "expires_at": "2026-10-11T03:48:42Z",
+  "expires_at": "2026-10-11T03:50:41Z",
   "apps": [
     {
       "id": 2,
@@ -77,9 +77,9 @@
       },
       "available_regions": null,
       "created_at": "2026-10-03T10:55:52Z",
-      "updated_at": "2026-10-08T05:49:10Z",
+      "updated_at": "2026-10-09T03:50:40Z",
       "editorial": {
-        "featured": true,
+        "featured": false,
         "editors_pick": false
       },
       "base_stats": {
