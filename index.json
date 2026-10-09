@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-08T22:00:11Z",
+  "generated_at": "2026-10-09T03:48:42Z",
   "sequence": 0,
-  "expires_at": "2026-10-09T22:00:11Z",
+  "expires_at": "2026-10-11T03:48:42Z",
   "apps": [
     {
       "id": 2,
@@ -83,7 +83,7 @@
         "editors_pick": false
       },
       "base_stats": {
-        "downloads": 5789040,
+        "downloads": 5789003,
         "rating": {
           "average": 4.6,
           "count": 10
@@ -175,35 +175,6 @@
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
           "changelog": "- Version 1.1.12 (build 226), commit 44f853b.",
           "released_at": "2026-10-08T11:11:01Z",
-          "status": "available",
-          "compatibility": {
-            "min_sdk": 26,
-            "target_sdk": 36,
-            "abis": [
-              "arm64-v8a",
-              "armeabi-v7a",
-              "x86",
-              "x86_64"
-            ],
-            "screen_densities": [],
-            "required_features": [],
-            "permissions": []
-          },
-          "rollout": {
-            "percentage": 100,
-            "status": "active"
-          }
-        },
-        {
-          "release_id": 6,
-          "version_name": "1.1.4",
-          "version_code": "218",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/6",
-          "sha256": "a5ec9fefe65e765e215ac161e92a674e669192ab9585e4743577d5111dbfa177",
-          "size_bytes": 31238330,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.1.4 (build 218), commit 517394f.",
-          "released_at": "2026-10-06T08:39:58Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
