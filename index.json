@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-10T07:20:29Z",
+  "generated_at": "2026-10-10T07:22:01Z",
   "sequence": 0,
-  "expires_at": "2026-10-12T07:20:29Z",
+  "expires_at": "2026-10-12T07:22:01Z",
   "apps": [
     {
       "id": 2,
@@ -163,8 +163,37 @@
       ],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "235",
+      "suggested_version_code": "236",
       "versions": [
+        {
+          "release_id": 11,
+          "version_name": "1.1.22",
+          "version_code": "236",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/11",
+          "sha256": "7faa0730756ae1d9c597656109eab16febc899026ccf916345b26c3f18a5f790",
+          "size_bytes": 8373578,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Version 1.1.22 (build 236), commit 9c7da96.",
+          "released_at": "2026-10-10T07:20:18Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": []
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          }
+        },
         {
           "release_id": 10,
           "version_name": "1.1.21",
