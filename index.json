@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-10T14:05:04Z",
+  "generated_at": "2026-10-10T16:00:11Z",
   "sequence": 0,
-  "expires_at": "2026-10-12T14:05:04Z",
+  "expires_at": "2026-10-12T16:00:11Z",
   "apps": [
     {
       "id": 2,
@@ -83,7 +83,7 @@
         "editors_pick": false
       },
       "base_stats": {
-        "downloads": 5789000,
+        "downloads": 5789013,
         "rating": {
           "average": 4.6,
           "count": 10
