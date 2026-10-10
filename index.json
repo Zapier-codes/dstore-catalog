@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-10T07:34:56Z",
+  "generated_at": "2026-10-10T07:56:43Z",
   "sequence": 0,
-  "expires_at": "2026-10-12T07:34:56Z",
+  "expires_at": "2026-10-11T07:56:43Z",
   "apps": [
     {
       "id": 2,
@@ -82,85 +82,6 @@
         "featured": true,
         "editors_pick": false
       },
-      "base_stats": {
-        "downloads": 5789000,
-        "rating": {
-          "average": 4.6,
-          "count": 10
-        }
-      },
-      "reviews": [
-        {
-          "author_name": "Amina K.",
-          "rating": 5,
-          "body": "I've been hunting through GitHub release pages for months 😩 and this just puts everything in one place. Tapped install and it picked the right APK for my phone first time 🙌",
-          "commented_on": "2026-09-02T00:00:00Z",
-          "helpful_count": 41
-        },
-        {
-          "author_name": "Tunde O.",
-          "rating": 5,
-          "body": "No ads. No tracking. No \"create an account\" nonsense. In 2026?? I had to double check I wasn't dreaming 😂",
-          "commented_on": "2026-09-05T00:00:00Z",
-          "helpful_count": 36
-        },
-        {
-          "author_name": "Chidi E.",
-          "rating": 5,
-          "body": "Update notifications are the killer feature for me 🔔 Got pinged about a new release before I even knew one was coming. Never going back to manual checking.",
-          "commented_on": "2026-09-08T00:00:00Z",
-          "helpful_count": 28
-        },
-        {
-          "author_name": "Fatima B.",
-          "rating": 4,
-          "body": "Dark mode is gorgeous 🌙 and the compare-two-apps view saved me from picking the wrong one. Only wish the trust score explained itself a bit more 🤔",
-          "commented_on": "2026-09-11T00:00:00Z",
-          "helpful_count": 19
-        },
-        {
-          "author_name": "Emeka N.",
-          "rating": 5,
-          "body": "An update broke my favourite app and I nearly panicked 😬 then found the rollback option. Back to the old version in 10 seconds. You've earned a fan 💯",
-          "commented_on": "2026-09-14T00:00:00Z",
-          "helpful_count": 52
-        },
-        {
-          "author_name": "Zainab L.",
-          "rating": 3,
-          "body": "Great idea, honestly, but a lot of listings have no screenshots 📷 and search crawled on my mobile data 🐌 Fix those and it's a 5 for me.",
-          "commented_on": "2026-09-18T00:00:00Z",
-          "helpful_count": 23
-        },
-        {
-          "author_name": "David A.",
-          "rating": 4,
-          "body": "Synced my GitHub stars into favourites and my whole wishlist appeared instantly ✨ Would love more categories for dev tools.",
-          "commented_on": "2026-09-21T00:00:00Z",
-          "helpful_count": 14
-        },
-        {
-          "author_name": "Grace M.",
-          "rating": 5,
-          "body": "Open source, free, respects privacy. I sent it to my whole class group chat and three people have already installed it 🥳",
-          "commented_on": "2026-09-25T00:00:00Z",
-          "helpful_count": 17
-        },
-        {
-          "author_name": "Sani Y.",
-          "rating": 5,
-          "body": "Use it daily now. It feels like a proper Play Store alternative but without the baggage ❤️ Please keep it this clean!",
-          "commented_on": "2026-09-29T00:00:00Z",
-          "helpful_count": 31
-        },
-        {
-          "author_name": "Blessing C.",
-          "rating": 5,
-          "body": "Was skeptical at first 🤨 then I saw the signature check and the install history. Okay, this is legit. Five stars, no notes 🔥",
-          "commented_on": "2026-10-03T00:00:00Z",
-          "helpful_count": 22
-        }
-      ],
       "sponsored_slots": [],
       "collections": [],
       "suggested_version_code": "237",
