@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-10T18:10:19Z",
+  "generated_at": "2026-10-10T18:12:03Z",
   "sequence": 0,
-  "expires_at": "2026-10-12T18:10:19Z",
+  "expires_at": "2026-10-12T18:12:03Z",
   "apps": [
     {
       "id": 2,
@@ -19,8 +19,8 @@
         "title": "Appstore",
         "description": "Appstore is an open-source Android app store that scans six sources and merges them into one feed: GitHub, GitLab, F-Droid, IzzyOnDroid, APKPure and Aptoide. No ads and no bloat.\n\nFind what you want faster\n- Browse curated categories plus smart sections such as Trending and Newly Launched.\n- See screenshots pulled straight from each project's README.\n- Sync your GitHub starred repositories into your favourites.\n\nInstall with confidence\n- Every downloaded APK is checked against the signing certificate of the app already on your phone before it installs, so a hijacked repository or redirected release cannot silently replace what you have.\n- Your install history is kept, and you can roll back to a previous version from it.\n\nMade for everyone\n- Available in 16 languages, including English, Hindi, Spanish, French, German, Japanese, Portuguese, Arabic and Chinese.\n- Dismissible in-app announcements for releases and community updates.\n- Optional Liquid Glass Pro themes.\n\nAppstore is open source under the AGPL-3.0 licence.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/releases/12/icon",
-          "sha256": "fb976ba0f2c42bff2f3c4936b0389056c6d5e6a5a08093e361611783edd42b85"
+          "url": null,
+          "sha256": null
         },
         "screenshots": [
           {
@@ -83,7 +83,7 @@
         "editors_pick": false
       },
       "base_stats": {
-        "downloads": 5789013,
+        "downloads": 5789000,
         "rating": {
           "average": 4.6,
           "count": 10
@@ -163,18 +163,18 @@
       ],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "237",
+      "suggested_version_code": "250",
       "versions": [
         {
-          "release_id": 12,
-          "version_name": "1.1.23",
-          "version_code": "237",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/12",
-          "sha256": "3037ebf643af7fae7c15f8f09996f83371dc217d4d9d154471852713c8be3674",
-          "size_bytes": 8373578,
+          "release_id": 14,
+          "version_name": "1.1.36",
+          "version_code": "250",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/14",
+          "sha256": "2374ae88fe5c0debcc0b341f1064ae75028fbbb973ca0f8d870632622ec11501",
+          "size_bytes": 8497448,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.1.23 (build 237), commit 451530a.",
-          "released_at": "2026-10-10T07:30:20Z",
+          "changelog": "- Version 1.1.36 (build 250), commit aa6c43d.",
+          "released_at": "2026-10-10T18:10:14Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
@@ -187,7 +187,27 @@
             ],
             "screen_densities": [],
             "required_features": [],
-            "permissions": []
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ENFORCE_UPDATE_OWNERSHIP",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+              "android.permission.INTERNET",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.QUERY_ALL_PACKAGES",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.REQUEST_DELETE_PACKAGES",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "com.google.android.c2dm.permission.RECEIVE",
+              "com.rosan.dhizuku.permission.API",
+              "com.vythera.vyxelapps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+              "moe.shizuku.manager.permission.API_V23"
+            ]
           },
           "rollout": {
             "percentage": 100,
